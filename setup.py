@@ -79,7 +79,7 @@ setup(
             "librosa<1",
         ],
         "dev": [
-            "black==24.8.0",
+            "black==26.3.1",
             "flake8==7.1.1",
             "isort==5.13.2",  # used by script/lint and script/format
             "mypy==1.14.0",
